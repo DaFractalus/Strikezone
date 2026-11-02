@@ -8,4 +8,6 @@ Unfortunately i didn't get to include actual gameplay in it right now but i've w
 other libraries used: GLM, Freetype, glad, stb_image, stb_vorbis, assimp.
 
 This is a screenshot of how the UI looks like:
-<img width="1377" height="827" alt="Screenshot 2026-11-02 213757" src="https://github.com/user-attachments/assets/a3bc0763-f0ad-4b3c-9568-93944105c6e6" />
+
+<img width="1382" height="827" alt="Screenshot 2026-11-02 215611" src="https://github.com/user-attachments/assets/2a1f3a0b-186e-4acb-b607-06556e42edf9" />
+
